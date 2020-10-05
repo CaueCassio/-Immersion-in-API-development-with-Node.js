@@ -1,2 +1,2 @@
-# -Immersion-in-API-development-with-Node.js
+# Immersion-Api-Node.js
 Repositorio criado para seguir o curso @NODEBR
